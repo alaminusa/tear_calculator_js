@@ -1,0 +1,28 @@
+*{
+    background-color: gainsboro;
+}
+
+input{
+    margin-top: 20%;
+    margin-left: 40%;
+    height: 25px;
+    background-color: azure;
+    margin-bottom: 10px;
+    font-size: larger;
+}
+
+button{
+    margin-left: 40%;
+    font-size: larger;
+    cursor: pointer;
+}
+button:hover{
+    background-color: grey;
+    color: white;
+    transition: .5s;
+}
+
+h2{
+    margin-left: 40%;
+    font-size: xx-large;
+}
